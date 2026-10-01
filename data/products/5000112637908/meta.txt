@@ -1,0 +1,5 @@
+name: Stone Oven Wholemeal Bread
+brand: Stone Oven
+category: Bakery
+net_weight: 800 g
+serving: 1 slice 40 g

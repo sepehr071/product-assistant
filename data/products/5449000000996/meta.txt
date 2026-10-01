@@ -1,0 +1,5 @@
+name: Classic Cola 1.5 L
+brand: House Brand
+category: Soft drinks
+net_weight: 1.5 L
+serving: 250 ml

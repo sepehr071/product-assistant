@@ -1,0 +1,5 @@
+name: Meadow Fresh Greek Yogurt Plain
+brand: Meadow Fresh
+category: Dairy
+net_weight: 500 g
+serving: 150 g
