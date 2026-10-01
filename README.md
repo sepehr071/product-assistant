@@ -109,3 +109,7 @@ Catalog tests are offline. `test_agent.py` exercises the scan state and tools.
 ## License
 
 MIT, see [LICENSE](LICENSE). The `kiosk/` UI is derived from LiveKit's MIT-licensed starter; its own license is kept in [`kiosk/LICENSE`](kiosk/LICENSE).
+
+---
+
+<sub>Built by <a href="https://sepehrradmard.ir">Sepehr Radmard</a> · <a href="https://www.linkedin.com/in/sepehr-radmard/">LinkedIn</a> · <a href="https://github.com/sepehr071">GitHub</a> · more projects on my <a href="https://github.com/sepehr071">profile</a></sub>
